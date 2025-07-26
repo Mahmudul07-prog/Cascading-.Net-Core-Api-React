@@ -25,4 +25,3 @@ Efficient foreign key relationships using Fluent API
 Navigation properties to support history and tracking
 
 -------------------------------------------Done-------------------------------------------------
-https://cascading-net-core-api-react-ef7x-3s3pkmw9v.vercel.app
